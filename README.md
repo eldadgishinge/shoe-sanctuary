@@ -6,7 +6,7 @@
 
 ## Overview
 
-Welcome to the React Shoes Store project! This is the front-end for a shoe shopping platform, allowing users to browse and search for shoes, add them to their cart, and complete the checkout process. The front-end is built using React, Redux, and React Router.
+Welcome to the React Shoes Store project! This is the front-end for a shoe shopping platform, allowing users to browse and search for shoess. The front-end is built using React, Redux, and React Router.
 
 ## Features
 
