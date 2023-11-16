@@ -13,7 +13,7 @@ const data = [
     category: "sneakers",
   },
   {
-    img: "https://m.media-amazon.com/images/I/519MRhRKGFL._AC_UX575_.jpg",
+    img: "https://m.media-amazon.com/images/I/71byBwaWpuL._AC_SX679_.jpg",
     title: "Nike Air Vapormax Plus",
     star: <AiFillStar className="rating-star" />,
     reviews: "(123 reviews)",
